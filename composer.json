@@ -1,7 +1,14 @@
 {
-    "name": "portfolio/v2",
-    "description": "React Portfolio Website",
+    "name": "portfolio/gatsby",
+    "description": "Personal Portfolio built with Gatsby",
     "require": {
         "php": ">=7.4"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "npm install -g gatsby-cli",
+            "npm install --force",
+            "npm run build"
+        ]
     }
 }
