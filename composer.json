@@ -1,0 +1,7 @@
+{
+    "name": "portfolio/v2",
+    "description": "React Portfolio Website",
+    "require": {
+        "php": ">=7.4"
+    }
+}
