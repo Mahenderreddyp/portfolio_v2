@@ -1,8 +1,10 @@
 module.exports = {
   title: 'Mahender Redddy Pokala | AI Engineer',
-  description: 'Mahender Redddy Pokala is a Skilled ML Engineer with expertise in designing and developing computer vision and Large Language model systems. Professional in popular ML frameworks.',
+  description:
+    'Mahender Redddy Pokala is a Skilled ML Engineer with expertise in designing and developing computer vision and Large Language model systems. Professional in popular ML frameworks.',
   email: 'mahenderreddy.ai@gmail.com',
-  siteKeywords: 'Mahender Redddy Pokala, Mahender, Reddy, mahenderp, mahenderreddyp, mahender uchicago, mahender chicago, AI engineer, deep learning engineer, machine learning engineer, computer vision, bml munjal university, university of chicago, uchciago, flask, warangal, image processing, healthcare technologies, autonomo, phoenix ai, cehd, autonomo gmbh, adventum, scienaptic',
+  siteKeywords:
+    'Mahender Redddy Pokala, Mahender, Reddy, mahenderp, mahenderreddyp, mahender uchicago, mahender chicago, AI engineer, deep learning engineer, machine learning engineer, computer vision, bml munjal university, university of chicago, uchciago, flask, warangal, image processing, healthcare technologies, autonomo, phoenix ai, cehd, autonomo gmbh, adventum, scienaptic',
   siteUrl: 'https://mahenderp.com',
 
   socialMedia: [
@@ -25,11 +27,9 @@ module.exports = {
     {
       name: 'Twitter',
       url: 'https://twitter.com/Mmsv2549',
-    }
-    
+    },
   ],
 
- 
   navLinks: [
     {
       name: 'About',
@@ -50,9 +50,9 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    green: '#9FFFCB',
+    navy: '#231942',
+    darkNavy: '#0D0221',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({

@@ -133,7 +133,7 @@ const About = () => {
     'Computer Vision',
     'Deep Learning',
     'Large Language Models',
-    'AWS',
+    'MLOps',
   ];
 
   return (
@@ -144,30 +144,35 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I’m Mahender, worked in the field of Machine Learning for 4.5 years and recently moved
-              to Chicago for pursuing a master’s degree at{' '}
-              <a href="https://www.uchicago.edu/en">University of Chicago</a>. I worked in healthcare,
-              fintech and autonomous stores domain earlier. I started my career at a startup where we developed an
-              AI-based diagnostic platform for retinal diseases where my role was quite versatile
-              i.e., I was involved in the entire ML pipeline starting from the data collection till
-              model deployment.
+              I'm Mahender, and I've worked in Machine Learning for 4.5 years before recently moving
+              to Chicago to pursue my master's degree at{' '}
+              <a href="https://www.uchicago.edu/en">The University of Chicago</a>. I've worked
+              across healthcare, fintech, and autonomous stores domains. I started my career at a
+              startup where we developed an AI-based diagnostic platform for retinal diseases, where
+              my role was versatile – I was involved in the entire ML pipeline from data collection
+              to model deployment.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.autonomo.tech/">few startups</a>,{' '}
-              <a href="https://www.scienaptic.ai/">a MNC</a>, and currently working at{' '}
-              <a href="https://cehd.uchicago.edu/">CEHD</a>, the center for the economics for the human development as the Research Assistant.
-              and also <a href="https://genai.uchicago.edu/en">Phoenix AI</a>, the personalised Generative AI program as the Student AI Assistant.
-              My main focus these days is building ML pipelines for organisations.
+              <a href="https://www.autonomo.tech/">several startups</a>,{' '}
+              <a href="https://www.scienaptic.ai/">an MNC</a>, and work as a Research Assistant at{' '}
+              <a href="https://cehd.uchicago.edu/">CEHD</a>, (Center for Economics of Human
+              Development) and as a Student AI Assistant at{' '}
+              <a href="https://genai.uchicago.edu/en">Phoenix AI</a>, the personalized Generative AI
+              program. My main focus these days is building ML pipelines for organizations.
             </p>
 
             <p>
-              With a passion in AI and ML, I didn’t just work for companies but carried out my own
-              research projects and also taught around 100+ juniors how to build the ML pipelines.
+              With a passion for AI and ML, I haven't just worked for companies but have also
+              conducted my own research projects and taught over 100 juniors how to build ML
+              pipelines.
             </p>
 
-            <p>Here are a few technologies I’ve been working with (find details in Resume):</p>
+            <p>
+              Here are a few technologies I’ve been working with (find details in{' '}
+              <a href="https://mahenderp.com/resume.pdf">Resume</a>):
+            </p>
           </div>
 
           <ul className="skills-list">

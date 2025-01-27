@@ -29,9 +29,10 @@ const StyledHeroSection = styled.section`
     }
   }
 
-  h3 {
+  h4 {
     margin-top: 5px;
     color: var(--slate);
+    font-size: 50px;
     line-height: 0.9;
   }
 
@@ -60,13 +61,15 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Mahender Redddy Pokala.</h2>;
-  const three = <h3 className="big-heading">I build AI Applications.</h3>;
+  const two = <h2 className="big-heading">Mahender Redddy Pokala</h2>;
+  const three = <h4 className="big-heading">Crafting Intelligence Through Code</h4>;
   const four = (
     <>
       <p>
-      I’m a Skilled ML Engineer with expertise in designing and developing computer vision systems. 
-      Professional in popular ML frameworks. Adept in researching and architecting AI models.
+        Transforming complex AI concepts into production-ready solutions. Leveraging expertise in
+        computer vision and LLMs to build scalable systems that solve real-world challenges. From
+        autonomous retail to healthcare, I specialize in AI applications that deliver measurable
+        results.
       </p>
     </>
   );
@@ -75,8 +78,7 @@ const Hero = () => {
       className="email-link"
       href="https://www.linkedin.com/in/mmsv"
       target="_blank"
-      rel="noreferrer"
-    >
+      rel="noreferrer">
       Connect on LinkedIn!
     </a>
   );

@@ -7,6 +7,9 @@ range: 'December 2024 - Present'
 url: 'https://cehd.uchicago.edu/'
 ---
 
-- Built an advanced computer vision pipeline using YOLOv8 and Deep SORT, achieving 15 FPS real-time tracking with a 92% accuracy rate across multi-camera systems.
-- Engineered a novel 3D reconstruction system using Neural Radiance Fields (NeRF) and point cloud methods to process and analyze 11,000+ hours of video data for behavioral studies.
-- Designed a multi-camera calibration and synchronization framework, automating pose estimation and action recognition, significantly reducing data preprocessing time.
+- Developed and optimized a real-time computer vision pipeline utilizing YOLOv8 and Deep SORT algorithms, achieving industry-leading performance of 15 FPS tracking with 92% accuracy across distributed multi-camera systems.
+- Pioneered an innovative 3D reconstruction framework incorporating Neural Radiance Fields (NeRF) and point cloud methodologies, successfully processing and analyzing over 11,000 hours of video data for comprehensive behavioral research studies.
+- Architected a sophisticated multi-camera calibration and synchronization system that automated pose estimation and action recognition workflows, substantially reducing data preprocessing requirements and improving operational efficiency.
+- **Computer Vision**: YOLOv8, Deep SORT, Multi-camera tracking, Pose estimation.
+- **3D Technologies**: Neural Radiance Fields (NeRF), Point cloud processing, 3D reconstruction.
+- **Machine Learning**: Action recognition, Behavioral analysis, Neural networks.

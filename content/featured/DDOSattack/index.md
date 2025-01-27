@@ -2,7 +2,7 @@
 date: '3'
 title: 'DDOS Attack Prediction in Real Time'
 cover: './ddos.jpg'
-external: 'https://github.com/Mahenderreddyp'
+github: 'https://github.com/Mahenderreddyp'
 
 tech:
   - Python
